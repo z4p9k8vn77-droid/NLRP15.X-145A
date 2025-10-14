@@ -1,9 +1,7 @@
 # NLRP15.X-145A
 
-🧬 XLNT Biotechnologies (NASDAQ: XLNT) — 20
+🧬 XLNT Biotechnologies (NASDAQ: XLNT)
 Compound: X-145A (Longevion™)
-
-Overview: XLNT Biotechnologies - Compound X-145A
 
 XLNT Biotechnologies (NASDQ: NLXT) is an early-stage biotech company focused on developing novel therapeutics for age-related diseases. 
 
@@ -105,7 +103,8 @@ XLNT Biotechnologies aims to address the root causes of aging by targeting NLRP1
 
 Our work is grounded in rigorous science, with a commitment to ethical development and equitable access to transformative therapies.
 
-About XLNT Biotechnologies
+🏢 6. XLNT Biotechnologies
+
 Founded in 2022, XLNT Biotechnologies is a privately held company headquartered in Cambridge, MA. 
 
 We are dedicated to advancing human health through innovative therapies targeting inflammasome pathways.
