@@ -1,5 +1,9 @@
 # NLRP15.X-145A
 
+## TL;DR
+
+**NLRP15.X-145A** is a speculative biotech concept exploring a synthetic inhibitor targeting the fictional NLRP15 inflammasome — a theoretical driver of age-related inflammation and cellular decay. This repo imagines a future where X-145A, developed by Longevion, undergoes clinical trials and reshapes the anti-aging landscape. It blends molecular biology, clinical data, and economic forecasting into a transhumanist narrative.
+
 🧬 XLNT Biotechnologies (NASDAQ: XLNT)
 Compound: X-145A (Longevion™)
 
