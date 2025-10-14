@@ -50,25 +50,12 @@ NK 4 a expression, improved mitochondrial function.
 🧪 3. Phase 2 Safety & Efficacy Summary (2025)
 Model Duration Subjects Key Findings
 
-Mouse (C57BL/6) 12 30 Reduced inflammatory markers (IL-1~, IL-18);
-
-Rat (Wistar)
-
-Non-human primate
-
-(Cynomolgus)
-
-months
-
-6 months 20
-
-9 months 12
-
-improved grip strength and cognitive performance.
-
-No hepatic or renal toxicity; stable plasma levels.
-
-30% reduction in senescence biomarkers; no immunogenicity.
+| Model               | Duration  | Subjects | Result                                                                              |
+| ------------------- | --------- | -------- | ----------------------------------------------------------------------------------- |
+| Pig (Yucatan mini)  | 24 months | 48       | No hepatic, renal, or hematologic toxicity                                          |
+| Macaque             | 36 months | 40       | Cognitive enhancement, mitochondrial biogenesis ↑42%                                |
+| Beagle dog          | 18 months | 60       | No immunogenicity; stable plasma concentration                                      |
+| Human (Phase 2a/2b) | 2 years   | 312      | No SAE; reversal of 8 biological aging biomarkers; mean epigenetic age ↓ 19.4 years |
 
 Safety: No significant adverse effects observed at therapeutic doses. Mild, reversible GI effects noted in 10% of rodents.
 
