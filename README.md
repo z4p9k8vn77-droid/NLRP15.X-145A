@@ -1,6 +1,6 @@
 # NLRP15.X-145A
 
-🧬 XLNT Biotechnologies — 2067
+🧬 XLNT Biotechnologies (NASDAQ: XLNT) — 2067
 Compound: X-145A (Longevion™)
 
 Target: NLRP15 (NOD-like receptor family, pyrin domain containing 15)
